@@ -1,0 +1,13 @@
+﻿  PongProyect.cpp
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(17,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(132,33): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(212,31): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(235,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(236,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(245,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(246,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(292,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(295,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(301,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\PongProyect.cpp(302,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  PongProyect.vcxproj -> C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\x64\Debug\PongProyect.exe

@@ -1,0 +1,2 @@
+C:\Users\Alan Codini\OneDrive\ProyectoPong\src\PongProyect\x64\Debug\PongProyect.exe
+C:\Users\alanl\OneDrive\ProyectoPong\src\PongProyect\x64\Debug\PongProyect.exe
